@@ -52,6 +52,3 @@ passport.deserializeUser(async (id, done) => {
     done(err);
   }
 });
-
-//clientID->   91331694366-bbi42aoaev9odem4m0ltd6iuo74j60gs.apps.googleusercontent.com
-//clientSecret>   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
